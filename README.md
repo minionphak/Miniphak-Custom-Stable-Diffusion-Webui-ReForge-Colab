@@ -1,6 +1,7 @@
 # Miniphak-Custom-Stable-Diffusion-Webui-ReForge-Colab
 Colab script to run Reforge with custom settings. 
 Adjust each settings/models depend on what you want. 
+# I'm working on updating the code. Right now there is some conflict with library install in google colab environment. Will provide the update script later 
 I'm not good at writing code, so good luck of optimizing them for you use case
 
 <img width="963" height="360" alt="Screenshot 2026-03-07 004336" src="https://github.com/user-attachments/assets/44b06b0b-bd4c-4fba-b67d-b926696d12fb" />
